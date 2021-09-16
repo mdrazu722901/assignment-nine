@@ -1,0 +1,24 @@
+.title{
+    margin-right: 200px;
+    color: black;
+    font-weight: 800;
+}
+.navbar{
+    margin-left: 50px;
+}
+.navbar li{
+    display: inline;
+    margin-left: 50px;
+    color: black;
+    font-size: 20px;
+  }
+  .navbar a{
+    text-decoration: none;
+    color: rgba(252, 249, 249, 0.877);
+    font-weight: bold;
+  }
+  .login{
+      background-color: brown;
+      padding: 5px 10px;
+      border-radius: 5px;
+  }

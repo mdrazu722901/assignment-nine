@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    justify-content: center;
+}
+form{
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+}
+input{
+    padding: 5px;
+    border-radius: 2px;
+    border: none;
+}
+#btn{
+    margin-left: 50px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.leftSite{
+    padding: 20px;
+}
+.rightSite{
+    padding: 20px;
+}

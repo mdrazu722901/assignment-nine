@@ -1,0 +1,11 @@
+.mainBox{
+    text-align: center;
+    margin-top: 100px;
+    border: 1px solid red;
+    width: 300px;
+    height: 200px;
+    margin-left: 300px;
+    padding: 50px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
