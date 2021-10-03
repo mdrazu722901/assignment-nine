@@ -43,6 +43,7 @@ export default function Details({ allData }) {
     }
     const style = {
         margin: "3px",
+        padding: "30px"
     }
     return (
         <Card className={classes.root} style={style} onClick={() => handleBook(allData.name)}>

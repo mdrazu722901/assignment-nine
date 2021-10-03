@@ -32,9 +32,6 @@ function App() {
             <PrivateRoute path="/conform">
               <Conform />
             </PrivateRoute>
-            <Route>
-
-            </Route>
           </Switch>
         </Router>
       </div>
